@@ -16,7 +16,7 @@
         <mxCell id="98Yqiem83O3-2Uw2VNm2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;fontSize=20;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#000000;" edge="1" parent="1" source="98Yqiem83O3-2Uw2VNm2-3" target="98Yqiem83O3-2Uw2VNm2-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="98Yqiem83O3-2Uw2VNm2-39" value="方案基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=#000000;fillColor=#000000;" vertex="1" connectable="0" parent="98Yqiem83O3-2Uw2VNm2-10">
+        <mxCell id="98Yqiem83O3-2Uw2VNm2-39" value="方案基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=#000000;fillColor=#000000;" vertex="1" connectable="0" parent="98Yqiem83O3-2Uw2VNm2-10">
           <mxGeometry x="-0.028" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -30,7 +30,7 @@
         <mxCell id="98Yqiem83O3-2Uw2VNm2-13" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#000000;endArrow=classic;fontStyle=0" edge="1" parent="1" source="98Yqiem83O3-2Uw2VNm2-5" target="98Yqiem83O3-2Uw2VNm2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="98Yqiem83O3-2Uw2VNm2-37" value="理论基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=#000000;fillColor=#000000;" vertex="1" connectable="0" parent="98Yqiem83O3-2Uw2VNm2-13">
+        <mxCell id="98Yqiem83O3-2Uw2VNm2-37" value="理论基础" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBorderColor=none;labelBackgroundColor=#000000;fillColor=#000000;" vertex="1" connectable="0" parent="98Yqiem83O3-2Uw2VNm2-13">
           <mxGeometry x="0.032" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
