@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3MpzPcViwoVQgBNi9xjq-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="400" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="3MpzPcViwoVQgBNi9xjq-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="400" height="220" as="geometry" />
         </mxCell>
@@ -47,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-19" value="第六章&lt;div&gt;总结与展望&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-23" value="提出车队通信安全的急迫性" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="160" height="60" as="geometry" />
@@ -71,10 +74,7 @@
           <mxGeometry x="640" y="240" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-33" value="总结本论文的工作并提出不足" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="360" y="360" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3MpzPcViwoVQgBNi9xjq-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="400" height="220" as="geometry" />
+          <mxGeometry x="370" y="390" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
