@@ -67,6 +67,9 @@
         <mxCell id="98Yqiem83O3-2Uw2VNm2-33" value="总结本论文的工作并提出不足" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3MpzPcViwoVQgBNi9xjq-34" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="400" height="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
