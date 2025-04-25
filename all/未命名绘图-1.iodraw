@@ -8,55 +8,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-7" value="第三章&lt;div&gt;场景分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-24" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#000000;endArrow=classic;fontStyle=0" parent="1" source="98Yqiem83O3-2Uw2VNm2-11" target="98Yqiem83O3-2Uw2VNm2-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-11" value="第一章&lt;div&gt;介绍背景&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-32" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#000000;endArrow=classic;fontStyle=0" parent="1" source="98Yqiem83O3-2Uw2VNm2-15" target="98Yqiem83O3-2Uw2VNm2-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-15" value="第五章&lt;div&gt;实验与分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-26" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#000000;endArrow=classic;fontStyle=0" parent="1" source="98Yqiem83O3-2Uw2VNm2-17" target="98Yqiem83O3-2Uw2VNm2-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-17" value="第二章&lt;div&gt;相关技术&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-30" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#000000;endArrow=classic;fontStyle=0" parent="1" source="98Yqiem83O3-2Uw2VNm2-18" target="98Yqiem83O3-2Uw2VNm2-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-18" value="第四章&lt;div&gt;协议设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-34" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#000000;endArrow=classic;fontStyle=0" parent="1" source="98Yqiem83O3-2Uw2VNm2-19" target="98Yqiem83O3-2Uw2VNm2-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-19" value="第六章&lt;div&gt;总结与展望&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-23" value="提出车队通信安全的急迫性" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="640" y="40" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="40" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-25" value="国际算法的介绍和优势" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="640" y="120" width="160" height="60" as="geometry" />
+          <mxGeometry x="540" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-27" value="车队通信安全需求分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="640" y="200" width="160" height="60" as="geometry" />
+          <mxGeometry x="540" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-29" value="基于国密车队通信协议的设计" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="640" y="280" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-31" value="对比实验验证国密算法的性能" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="640" y="360" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98Yqiem83O3-2Uw2VNm2-33" value="总结本论文的工作并提出不足" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="640" y="440" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="440" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
