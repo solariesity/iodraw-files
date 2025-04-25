@@ -55,7 +55,7 @@
         <mxCell id="98Yqiem83O3-2Uw2VNm2-31" value="对比实验验证国密算法的性能" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="640" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="98Yqiem83O3-2Uw2VNm2-33" value="总结与展望" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="98Yqiem83O3-2Uw2VNm2-33" value="总结本论文的工作并提出不足" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="640" y="440" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
