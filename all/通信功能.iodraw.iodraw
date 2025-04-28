@@ -10,23 +10,14 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-1" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-2" target="OL5ELoDmekj3klgwpv0C-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-2" value="生成消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-11" target="OL5ELoDmekj3klgwpv0C-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-11" value="发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-13" target="OL5ELoDmekj3klgwpv0C-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-13" value="消息接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-15" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="120" width="80" height="40" as="geometry" />
