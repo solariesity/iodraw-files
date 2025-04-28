@@ -177,13 +177,13 @@
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-74" value="发送加密后的SM4密钥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OL5ELoDmekj3klgwpv0C-73">
           <mxGeometry x="-0.0414" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-70" value="生成临时密钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="820" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-72" value="生成临时密钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-72" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="820" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
