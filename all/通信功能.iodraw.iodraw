@@ -90,6 +90,9 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-38" value="验证时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="592" width="81" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
