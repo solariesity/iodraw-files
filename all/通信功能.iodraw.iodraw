@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-22" value="生成消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
