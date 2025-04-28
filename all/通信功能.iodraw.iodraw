@@ -10,6 +10,9 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-1" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-2" target="OL5ELoDmekj3klgwpv0C-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-2" value="生成消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="120" width="80" height="40" as="geometry" />
         </mxCell>
@@ -21,6 +24,15 @@
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-15" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-17" target="OL5ELoDmekj3klgwpv0C-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-17" value="消息加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-19" value="消息加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
