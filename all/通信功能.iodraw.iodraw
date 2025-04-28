@@ -96,16 +96,8 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="600" width="80" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-42" target="OL5ELoDmekj3klgwpv0C-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="610" as="sourcePoint" />
-            <mxPoint x="618.48" y="673.96" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-46" value="生成密钥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OL5ELoDmekj3klgwpv0C-44">
-          <mxGeometry x="-0.0448" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
