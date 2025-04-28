@@ -54,8 +54,10 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-26" value="发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-28" target="OL5ELoDmekj3klgwpv0C-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OL5ELoDmekj3klgwpv0C-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-28" value="验证签名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="260" width="80" height="40" as="geometry" />
