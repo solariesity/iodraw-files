@@ -7,6 +7,16 @@
         <mxCell id="3a6VZQ2S_SKCDpCQ1xGb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3a6VZQ2S_SKCDpCQ1xGb-1" target="3a6VZQ2S_SKCDpCQ1xGb-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3a6VZQ2S_SKCDpCQ1xGb-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3a6VZQ2S_SKCDpCQ1xGb-3">
+          <mxGeometry x="0.0267" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3a6VZQ2S_SKCDpCQ1xGb-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3a6VZQ2S_SKCDpCQ1xGb-3">
+          <mxGeometry x="0.02" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3a6VZQ2S_SKCDpCQ1xGb-1" value="明文数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="80" height="40" as="geometry" />
         </mxCell>
