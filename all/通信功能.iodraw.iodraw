@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OL5ELoDmekj3klgwpv0C-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="100" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="190" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-1" target="OL5ELoDmekj3klgwpv0C-2">
@@ -86,9 +89,6 @@
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-38" value="验证时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="320" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="100" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
