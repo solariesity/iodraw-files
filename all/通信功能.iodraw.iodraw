@@ -131,7 +131,7 @@
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-57" value="颁发证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OL5ELoDmekj3klgwpv0C-52">
           <mxGeometry x="-0.4557" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-49" value="可信机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
