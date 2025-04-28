@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="WJNXPga6ylCxpFPOw2sW">
-    <mxGraphModel dx="724" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-13" value="消息接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="660" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-15" value="B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-17" target="OL5ELoDmekj3klgwpv0C-19">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-22" value="发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-26">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-26" target="OL5ELoDmekj3klgwpv0C-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="819.9999999999998" y="340" as="targetPoint" />
           </mxGeometry>
@@ -65,24 +65,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-28" value="验证签名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="660" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-32" target="OL5ELoDmekj3klgwpv0C-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-32" value="解密消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="660" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-35" value="加时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="300" as="targetPoint" />
+            <mxPoint x="700" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-38" value="验证时间戳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="660" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
