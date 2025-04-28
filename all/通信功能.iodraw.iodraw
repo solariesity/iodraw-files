@@ -140,6 +140,9 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-49" value="可信机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-58" target="OL5ELoDmekj3klgwpv0C-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-58" value="生成SM4秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="80" height="40" as="geometry" />
         </mxCell>
