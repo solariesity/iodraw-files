@@ -140,8 +140,10 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-49" value="可信机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-58" target="OL5ELoDmekj3klgwpv0C-60">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OL5ELoDmekj3klgwpv0C-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-66" value="申请成员证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OL5ELoDmekj3klgwpv0C-63">
           <mxGeometry x="-0.2929" relative="1" as="geometry">
