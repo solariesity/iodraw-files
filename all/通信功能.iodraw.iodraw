@@ -143,6 +143,9 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-58" value="生成SM4秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-60" value="生成SM4秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="710" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
