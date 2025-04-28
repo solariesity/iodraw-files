@@ -153,16 +153,15 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-58" value="生成SM4秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-60" target="OL5ELoDmekj3klgwpv0C-64">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OL5ELoDmekj3klgwpv0C-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OL5ELoDmekj3klgwpv0C-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="780" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-68" value="发送证书" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OL5ELoDmekj3klgwpv0C-65">
           <mxGeometry x="-0.0071" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-60" value="生成SM4秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-64" value="生成SM4秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="760" width="80" height="40" as="geometry" />
