@@ -112,6 +112,9 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-43" value="成员&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="600" width="120" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OL5ELoDmekj3klgwpv0C-47" target="OL5ELoDmekj3klgwpv0C-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-47" value="生成SM2公钥和私钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="640" width="80" height="40" as="geometry" />
         </mxCell>
@@ -136,6 +139,9 @@
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-49" value="可信机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OL5ELoDmekj3klgwpv0C-58" value="生成SM4秘钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="700" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
