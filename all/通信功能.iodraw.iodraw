@@ -36,7 +36,7 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-11" value="发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-13" value="发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-13" value="消息接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
