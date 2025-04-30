@@ -200,7 +200,7 @@
           <mxGeometry x="1600" y="990" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-41" value="第3章&lt;div style=&quot;font-size: 13px;&quot;&gt;车队安全通信&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;需求分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="1050" width="120" height="50" as="geometry" />
+          <mxGeometry x="1590" y="1080" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-43" target="nK0zlx9lzxEU3rBIJ7Pp-44">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +249,7 @@
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" target="nK0zlx9lzxEU3rBIJ7Pp-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1710" y="1110" as="sourcePoint" />
+            <mxPoint x="1590" y="1100" as="sourcePoint" />
             <mxPoint x="1450" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
