@@ -163,6 +163,9 @@
         <mxCell id="3rOSdUBnB6BDFKCguOzX-3" value="生成SM2公钥和私钥" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="620" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mNOBAmgTmDtd40nEqwAU-1" value="车辆A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
