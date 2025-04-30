@@ -200,10 +200,10 @@
           <mxGeometry x="1600" y="1150" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-44" value="第五章&lt;div&gt;实验验证&lt;/div&gt;&lt;div&gt;和结果分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="1150" width="120" height="50" as="geometry" />
+          <mxGeometry x="1600" y="1220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-45" value="第六章&lt;div&gt;总结本文工作&lt;/div&gt;&lt;div&gt;提出不足&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1637" y="1313" width="120" height="50" as="geometry" />
+          <mxGeometry x="1600" y="1320" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
