@@ -13,7 +13,7 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OL5ELoDmekj3klgwpv0C-1" target="OL5ELoDmekj3klgwpv0C-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-1" value="A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-1" value="车辆A" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OL5ELoDmekj3klgwpv0C-2" target="OL5ELoDmekj3klgwpv0C-17" edge="1">
@@ -31,7 +31,7 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-13" value="消息接收" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-15" value="B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-15" value="车辆B" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OL5ELoDmekj3klgwpv0C-17" target="OL5ELoDmekj3klgwpv0C-19" edge="1">
