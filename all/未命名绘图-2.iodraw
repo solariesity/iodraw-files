@@ -89,7 +89,7 @@
           <mxGeometry x="480" y="560" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-1" value="第一章&lt;div&gt;提出车队通信使用国密算法的可能性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="920" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
