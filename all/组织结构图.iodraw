@@ -187,8 +187,14 @@
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-27" value="国密算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-37" target="nK0zlx9lzxEU3rBIJ7Pp-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-37" value="第一章&lt;div&gt;绪论&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-39" target="nK0zlx9lzxEU3rBIJ7Pp-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-39" value="第二章&lt;div&gt;国密算法的介绍&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="990" width="120" height="50" as="geometry" />
@@ -212,10 +218,10 @@
           <mxGeometry x="1520" y="1160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-49" value="SM2实现身份认证" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1360" y="1160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-50" value="时间戳实现数据实时性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1160" width="130" height="50" as="geometry" />
+          <mxGeometry x="1840" y="1160" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
