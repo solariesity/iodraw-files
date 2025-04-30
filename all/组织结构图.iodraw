@@ -145,7 +145,7 @@
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-14" target="nK0zlx9lzxEU3rBIJ7Pp-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-14" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-14" value="通信保密性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-15" target="nK0zlx9lzxEU3rBIJ7Pp-27">
@@ -157,7 +157,7 @@
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-16" target="nK0zlx9lzxEU3rBIJ7Pp-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-16" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-16" value="消息实时性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-17" target="nK0zlx9lzxEU3rBIJ7Pp-19">
