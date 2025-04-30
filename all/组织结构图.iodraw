@@ -199,11 +199,6 @@
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-39" value="第二章&lt;div&gt;国密算法的介绍&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="990" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1490" y="1140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-41" value="第三章&lt;div&gt;车队安全通信&lt;/div&gt;&lt;div&gt;需求分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1060" width="120" height="50" as="geometry" />
         </mxCell>
@@ -227,6 +222,12 @@
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-50" value="时间戳实现数据实时性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="1160" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-41" target="nK0zlx9lzxEU3rBIJ7Pp-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="1180" as="sourcePoint" />
+            <mxPoint x="1710" y="1130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
