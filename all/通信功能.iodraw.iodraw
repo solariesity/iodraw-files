@@ -94,7 +94,7 @@
           <mxGeometry x="360" y="560" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-43" value="成员&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="560" width="120" height="360" as="geometry" />
+          <mxGeometry x="620" y="560" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OL5ELoDmekj3klgwpv0C-47" target="OL5ELoDmekj3klgwpv0C-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="380" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-48" value="申请证书" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="680" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OL5ELoDmekj3klgwpv0C-58" target="OL5ELoDmekj3klgwpv0C-69" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -135,7 +135,7 @@
           <mxGeometry x="380" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-69" value="生成临时&lt;div&gt;共享密钥&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OL5ELoDmekj3klgwpv0C-70" target="OL5ELoDmekj3klgwpv0C-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="380" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-72" value="存储SM4密钥" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="860" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3rOSdUBnB6BDFKCguOzX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3rOSdUBnB6BDFKCguOzX-1" target="OL5ELoDmekj3klgwpv0C-47">
           <mxGeometry relative="1" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3rOSdUBnB6BDFKCguOzX-3" value="生成SM2公钥和私钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
