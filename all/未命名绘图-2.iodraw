@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="350" dy="180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,8 +88,8 @@
         <mxCell id="98Yqiem83O3-2Uw2VNm2-33" value="总结本论文的工作并提出不足" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="480" y="560" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-1" value="第一章" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="910" width="120" height="60" as="geometry" />
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-1" value="第一章&lt;div&gt;提出车队通信使用国密算法的可能性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
