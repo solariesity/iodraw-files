@@ -88,8 +88,11 @@
         <mxCell id="98Yqiem83O3-2Uw2VNm2-33" value="总结本论文的工作并提出不足" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=#000000;fontColor=#FFFFFF;fontSize=20;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="480" y="560" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-1" value="第一章&lt;div&gt;提出车队通信使用国密算法的可能性&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="920" width="120" height="40" as="geometry" />
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-1" value="第一章&lt;div&gt;提出车队通信&lt;/div&gt;&lt;div&gt;使用国密算法&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-2" value="第一章&lt;div&gt;提出车队通信&lt;/div&gt;&lt;div&gt;使用国密算法&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="930" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
