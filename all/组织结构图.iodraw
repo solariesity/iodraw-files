@@ -200,13 +200,13 @@
           <mxGeometry x="1600" y="990" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-41" value="第3章&lt;div style=&quot;font-size: 13px;&quot;&gt;车队安全通信&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;需求分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1060" width="120" height="50" as="geometry" />
+          <mxGeometry x="1600" y="1070" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-43" target="nK0zlx9lzxEU3rBIJ7Pp-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-43" value="第4章&lt;div style=&quot;font-size: 13px;&quot;&gt;基于国密算法的&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;车队通信协议设计&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1250" width="120" height="50" as="geometry" />
+          <mxGeometry x="1600" y="1240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-44" target="nK0zlx9lzxEU3rBIJ7Pp-45">
           <mxGeometry relative="1" as="geometry" />
