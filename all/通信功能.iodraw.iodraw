@@ -151,8 +151,17 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-72" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="860" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3rOSdUBnB6BDFKCguOzX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3rOSdUBnB6BDFKCguOzX-1" target="OL5ELoDmekj3klgwpv0C-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3rOSdUBnB6BDFKCguOzX-1" value="生成SM2公钥和私钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="380" y="620" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3rOSdUBnB6BDFKCguOzX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3rOSdUBnB6BDFKCguOzX-3" target="OL5ELoDmekj3klgwpv0C-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3rOSdUBnB6BDFKCguOzX-3" value="生成SM2公钥和私钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="620" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
