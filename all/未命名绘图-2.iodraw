@@ -103,14 +103,17 @@
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-3" value="第三章&lt;div&gt;车队安全通信&lt;/div&gt;&lt;div&gt;需求分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1050" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-4" target="nK0zlx9lzxEU3rBIJ7Pp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-4" value="第四章&lt;div&gt;基于国密算法的&lt;/div&gt;&lt;div&gt;车队通信协议设计&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="980" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-5" value="第五章&lt;div&gt;实验验证&lt;/div&gt;&lt;div&gt;和结果分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1040" width="120" height="50" as="geometry" />
+          <mxGeometry x="580" y="1050" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-6" value="第六章&lt;div&gt;总结本文工作&lt;/div&gt;&lt;div&gt;提出不足&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1110" width="120" height="50" as="geometry" />
+          <mxGeometry x="470" y="1120" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
