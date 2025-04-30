@@ -206,16 +206,16 @@
           <mxGeometry x="1810" y="1450" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-47" value="SM4实现数据保密性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1680" y="1160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-48" value="SM3实现数据完整性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1520" y="1160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-49" value="SM2实现身份认证" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="1160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1350" y="1160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-50" value="时间戳实现数据实时性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1880" y="1160" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
