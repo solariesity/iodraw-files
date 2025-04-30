@@ -190,7 +190,7 @@
         <mxCell id="mNOBAmgTmDtd40nEqwAU-13" value="SM2公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mNOBAmgTmDtd40nEqwAU-14" value="SM2公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mNOBAmgTmDtd40nEqwAU-14" value="SM2私钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mNOBAmgTmDtd40nEqwAU-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mNOBAmgTmDtd40nEqwAU-12" target="mNOBAmgTmDtd40nEqwAU-13">
@@ -210,6 +210,12 @@
         </mxCell>
         <mxCell id="mNOBAmgTmDtd40nEqwAU-20" value="shareKeyA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mNOBAmgTmDtd40nEqwAU-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="1340" as="sourcePoint" />
+            <mxPoint x="560" y="1290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
