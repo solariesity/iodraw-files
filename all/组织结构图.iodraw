@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="724" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,6 +186,42 @@
         </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-27" value="国密算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-35" target="nK0zlx9lzxEU3rBIJ7Pp-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-35" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="980" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-37" target="nK0zlx9lzxEU3rBIJ7Pp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-37" value="第一章&lt;div&gt;提出车队通信&lt;/div&gt;&lt;div&gt;使用国密算法&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="910" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-39" target="nK0zlx9lzxEU3rBIJ7Pp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-39" value="第二章&lt;div&gt;国密算法的介绍&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="990" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-41" target="nK0zlx9lzxEU3rBIJ7Pp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-41" value="第三章&lt;div&gt;车队安全通信&lt;/div&gt;&lt;div&gt;需求分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1060" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-43" target="nK0zlx9lzxEU3rBIJ7Pp-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-43" value="第四章&lt;div&gt;基于国密算法的&lt;/div&gt;&lt;div&gt;车队通信协议设计&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="990" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-44" value="第五章&lt;div&gt;实验验证&lt;/div&gt;&lt;div&gt;和结果分析&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1060" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-45" value="第六章&lt;div&gt;总结本文工作&lt;/div&gt;&lt;div&gt;提出不足&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1140" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
