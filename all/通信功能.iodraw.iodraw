@@ -140,12 +140,12 @@
         <mxCell id="OL5ELoDmekj3klgwpv0C-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OL5ELoDmekj3klgwpv0C-70" target="OL5ELoDmekj3klgwpv0C-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-74" value="发送加密后的SM4密钥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OL5ELoDmekj3klgwpv0C-73" vertex="1" connectable="0">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-74" value="发送使用临时共享密钥&lt;div&gt;加密后的SM4密钥&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OL5ELoDmekj3klgwpv0C-73" vertex="1" connectable="0">
           <mxGeometry x="-0.0414" relative="1" as="geometry">
             <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OL5ELoDmekj3klgwpv0C-70" value="生成临时密钥" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OL5ELoDmekj3klgwpv0C-70" value="生成临时&lt;div&gt;共享密钥&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OL5ELoDmekj3klgwpv0C-72" value="存储SM4密钥" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
