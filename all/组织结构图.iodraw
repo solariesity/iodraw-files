@@ -187,16 +187,6 @@
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-27" value="国密算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nK0zlx9lzxEU3rBIJ7Pp-45">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1697" y="1293.0000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nK0zlx9lzxEU3rBIJ7Pp-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1666" y="986" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nK0zlx9lzxEU3rBIJ7Pp-37" value="第一章&lt;div&gt;绪论&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1606" y="916" width="120" height="50" as="geometry" />
         </mxCell>
