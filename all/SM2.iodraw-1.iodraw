@@ -274,6 +274,9 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-79" value="反序变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1220" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-80" value="加解密轮函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
