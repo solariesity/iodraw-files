@@ -274,6 +274,14 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-79" value="反序变换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1220" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-80" target="Uwkzfmju-rVce_occ45g-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-85" value="rk&lt;sub&gt;0&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uwkzfmju-rVce_occ45g-84">
+          <mxGeometry x="-0.0027" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-80" value="密钥扩展轮函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="920" width="90" height="40" as="geometry" />
         </mxCell>
@@ -285,6 +293,17 @@
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-83" value="密钥扩展轮函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="980" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="950" as="sourcePoint" />
+            <mxPoint x="890" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-87" value="rk&lt;sub&gt;0&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Uwkzfmju-rVce_occ45g-86">
+          <mxGeometry x="-0.0027" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
