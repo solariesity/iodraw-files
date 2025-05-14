@@ -55,7 +55,7 @@
           <mxGeometry x="390" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-3" value="SM3实现数据完整性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-4" value="第3章&lt;div&gt;车队安全通信&lt;/div&gt;&lt;div&gt;需求分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="440" width="100" height="40" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry x="150" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-6" value="SM4实现数据保密性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="450" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-7" value="时间戳确保数据实时性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="520" width="130" height="40" as="geometry" />
@@ -75,7 +75,7 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-9" value="第1章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="660" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-10" value="第1章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uwkzfmju-rVce_occ45g-10" value="第4章&lt;div&gt;基于国密算法的车队通信协议设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="600" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
