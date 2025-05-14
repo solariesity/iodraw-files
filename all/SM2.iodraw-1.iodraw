@@ -49,10 +49,10 @@
           <mxGeometry x="880" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-1" value="第1章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-2" value="第2章&lt;div&gt;国密算法的介绍&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-3" value="第1章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="520" width="80" height="40" as="geometry" />
