@@ -66,7 +66,7 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-6" value="SM4实现数据保密性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-7" value="第1章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uwkzfmju-rVce_occ45g-7" value="时间戳确保数据实时性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-8" value="第1章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
