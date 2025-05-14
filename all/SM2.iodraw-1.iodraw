@@ -150,11 +150,17 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-29" value="消息填充" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="980" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-30" target="Uwkzfmju-rVce_occ45g-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-30" value="消息填充" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1120" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-33" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="510" y="1120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-35" value="消息填充" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
