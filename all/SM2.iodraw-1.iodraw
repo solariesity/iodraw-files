@@ -371,11 +371,8 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-111" value="密文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="1225" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-114" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="880" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-115" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="890" width="30" height="30" as="geometry" />
+        <mxCell id="Uwkzfmju-rVce_occ45g-116" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1225" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
