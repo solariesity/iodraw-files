@@ -219,10 +219,10 @@
           <mxGeometry x="420" y="1285" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-55" value="初始值IV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="1248" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="1260" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="1308" width="50" height="30" as="geometry" />
+        <mxCell id="Uwkzfmju-rVce_occ45g-56" value="中间值CF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1308" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
