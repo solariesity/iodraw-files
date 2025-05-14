@@ -251,11 +251,6 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-65" value="加解密轮函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="980" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-66" target="Uwkzfmju-rVce_occ45g-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1020" y="1060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-66" value="加解密轮函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1040" width="80" height="40" as="geometry" />
         </mxCell>
@@ -357,11 +352,6 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-93" value="···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="985" y="1107.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-82">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="1100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-97" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="870" width="40" height="30" as="geometry" />
         </mxCell>
@@ -382,6 +372,9 @@
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-117" value="异或运算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1217.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.041;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-82" target="Uwkzfmju-rVce_occ45g-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
