@@ -389,23 +389,41 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-121" target="Uwkzfmju-rVce_occ45g-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-121" target="Uwkzfmju-rVce_occ45g-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-121" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-122" value="SM4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-123" target="Uwkzfmju-rVce_occ45g-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-123" value="算法高效性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-124" target="Uwkzfmju-rVce_occ45g-129">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-124" value="消息实时性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1540" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-125" target="Uwkzfmju-rVce_occ45g-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-125" value="身份认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-126" target="Uwkzfmju-rVce_occ45g-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-126" value="数据完整性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-127" target="Uwkzfmju-rVce_occ45g-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-127" value="通信保密性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1480" width="80" height="40" as="geometry" />
