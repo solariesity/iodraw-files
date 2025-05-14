@@ -215,8 +215,8 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-49" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-54" value="多路选择器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1258" width="80" height="30" as="geometry" />
+        <mxCell id="Uwkzfmju-rVce_occ45g-54" value="多路选择器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1135" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
