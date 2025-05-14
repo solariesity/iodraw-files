@@ -48,8 +48,14 @@
         <mxCell id="3a6VZQ2S_SKCDpCQ1xGb-14" value="签名" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="200" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-1" target="Uwkzfmju-rVce_occ45g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-1" value="第1章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-2" target="Uwkzfmju-rVce_occ45g-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-2" value="第2章&lt;div&gt;国密算法的介绍&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="380" width="100" height="40" as="geometry" />
