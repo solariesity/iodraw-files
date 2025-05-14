@@ -345,8 +345,11 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-97" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="870" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-98" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="880" width="40" height="30" as="geometry" />
+        <mxCell id="Uwkzfmju-rVce_occ45g-98" value="密钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="870" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-97" target="Uwkzfmju-rVce_occ45g-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
