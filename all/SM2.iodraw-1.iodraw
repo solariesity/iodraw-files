@@ -357,8 +357,10 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-93" value="···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="985" y="1107.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-82" target="Uwkzfmju-rVce_occ45g-93">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uwkzfmju-rVce_occ45g-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-97" value="FK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="870" width="40" height="30" as="geometry" />
