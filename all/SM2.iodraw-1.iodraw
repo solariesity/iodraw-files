@@ -141,6 +141,9 @@
             <mxPoint x="470" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-28" target="Uwkzfmju-rVce_occ45g-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-28" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="920" width="80" height="40" as="geometry" />
         </mxCell>
@@ -177,8 +180,14 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-39" value="消息填充" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="1220" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uwkzfmju-rVce_occ45g-41" target="Uwkzfmju-rVce_occ45g-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Uwkzfmju-rVce_occ45g-41" value="消息填充" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1460" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="1280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uwkzfmju-rVce_occ45g-44" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1380" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
