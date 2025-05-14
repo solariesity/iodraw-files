@@ -271,8 +271,8 @@
         <mxCell id="Uwkzfmju-rVce_occ45g-76" value="···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="820" y="1105" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uwkzfmju-rVce_occ45g-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="945" y="1080" width="50" height="30" as="geometry" />
+        <mxCell id="Uwkzfmju-rVce_occ45g-79" value="加解密轮函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1170" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
